@@ -1,0 +1,11 @@
+{
+	"name": "RTChat",
+	"version": "0.0.0",
+	"description": "a real time chat app",
+	"dependencies": {
+		"socket.io": "latest",
+		"express": "latest",
+		"jade": "latest"
+	},
+	"author": "rwhalen"
+}
